@@ -26,6 +26,7 @@ export const metadata = {
     creator: "@ogimagetster",
     description: "This is an amazing description",
     creator: "@author_name",
-    image:"https://prod-aaudxp-cms-001-app.azurewebsites.net/media/ubdgjwfl/aau-energy-2.png",
+    image:"https://prod-aaudxp-cms-001-app.azurewebsites.net/media/yi1jzam4/aau50_19-04fotohansravn.jpg",
+    
   },
 };
