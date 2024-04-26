@@ -31,7 +31,7 @@ export default function Home() {
       site: "@ogimagetster",
       creator: "@ogimagetster",
       description: "This is an amazing description",
-      image:"https://www.aaudxp-cms.aau.dk/media/3benkand/img_5598.jpg",
+      image:"https://www.aaudxp-cms.aau.dk/media/yi1jzam4/aau50_19-04fotohansravn.jpg",
       
     },
   };
