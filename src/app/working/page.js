@@ -16,7 +16,7 @@ export const metadata = {
   description: "Gsomething",
   openGraph: {
     images: [{ url:'https://www.aaudxp-cms.aau.dk/media/0s1dkbzr/aau_bygninger_090719_00398_effect-800px.jpg', width: 1200, height: 630}],
-    url: 'https://ogimagetster.vercel.app/',
+    url: 'https://ogimagetster.vercel.app/working',
     type: 'website',
     title: 'Test OG',
     description: 'test site',
@@ -28,7 +28,7 @@ export const metadata = {
     card: "summary",
     title: "Working",
     domain: "ogimagetster.vercel.app/",
-    url: "https://ogimagetster.vercel.app/",
+    url: "https://ogimagetster.vercel.app/working",
     site: "@ogimagetster",
     creator: "@ogimagetster",
     description: "This is an amazing description",
