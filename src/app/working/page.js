@@ -22,6 +22,6 @@ export const metadata = {
     title: "Your title",
     description: "Your description",
     creator: "@author_name",
-    images: ["https://prod-aaudxp-cms-001-app.azurewebsites.net/media/ubdgjwfl/aau-energy-2.png"],
+    images: [{url:"https://prod-aaudxp-cms-001-app.azurewebsites.net/media/ubdgjwfl/aau-energy-2.png", width: 1200, height: 630}],
   },
 };
