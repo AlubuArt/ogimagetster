@@ -15,7 +15,7 @@ export const metadata = {
   title: "Create Next App",
   description: "Gsomething",
   openGraph: {
-    images: [ 'https://prod-aaudxp-cms-001-app.azurewebsites.net/media/yi1jzam4/aau50_19-04fotohansravn.jpg'],
+    images: [ 'https://www.aaudxp-cms.aau.dk/media/ubdgjwfl/aau-energy-2.png'],
   },
   twitter: {
     card: "summary",
