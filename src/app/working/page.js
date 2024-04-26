@@ -18,10 +18,14 @@ export const metadata = {
     images: [ 'https://www.aaudxp-cms.aau.dk/media/ubdgjwfl/aau-energy-2.png'],
   },
   twitter: {
-    card: "summary_large_image",
-    title: "Your title",
-    description: "Your description",
+    card: "summary",
+    title: "Working",
+    domain: "ogimagetster.vercel.app/",
+    url: "https://ogimagetster.vercel.app/",
+    site: "@ogimagetster",
+    creator: "@ogimagetster",
+    description: "This is an amazing description",
     creator: "@author_name",
-    images: [{url:"https://prod-aaudxp-cms-001-app.azurewebsites.net/media/ubdgjwfl/aau-energy-2.png", width: 1200, height: 630}],
+    image:"https://prod-aaudxp-cms-001-app.azurewebsites.net/media/ubdgjwfl/aau-energy-2.png",
   },
 };
